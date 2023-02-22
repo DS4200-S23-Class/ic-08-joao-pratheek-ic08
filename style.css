@@ -1,0 +1,15 @@
+/* Styling goes in this file */
+
+body {
+	font-family: "Arial";
+}
+
+.centered {
+	text-align: center;
+	font-size: 36px;
+}
+
+.acknowledgements {
+	text-align: center;
+	font-size: 24px;
+}
